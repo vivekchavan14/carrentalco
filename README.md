@@ -20,3 +20,5 @@ Description of the Problem A car rental company (let's call it CRC) wants to dev
 
 For Database Diagram we can use SQL Workbench to create the tables and insert a few records into the tables to test your queries below.
 
+https://github.com/vivekchavan14/carrentalco/issues/1#issue-1569794508
+
