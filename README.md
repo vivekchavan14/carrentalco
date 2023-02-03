@@ -1,7 +1,7 @@
 # car-rental-company-database-sql
 
 
-Description of the Problem A car rental company (let's call it CRC) wants to develop a relational database with given data below
+Description of the Problem: A car rental company (let's call it CRC) wants to develop a relational database with given data below
 
 1)  "Car" table with 12 columns: CarID (primary key), Make, Model, Year_of_Production, Engine_Size, Fuel_Type, Number_of_Passengers, Registration_Number, Purchase_Price,      Purchase_Date, Rent_Price, and Insurance_Details.
 
