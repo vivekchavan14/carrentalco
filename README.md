@@ -17,3 +17,6 @@ Description of the Problem A car rental company (let's call it CRC) wants to dev
 6)  "Car_Garage" table with 3 columns: CarID, GarageID, and a composite primary key of CarID and GarageID, with foreign key references to the CarID and GarageID columns      in the "Car" and "Garage" tables, respectively.
 
 7)  "Customer_Car" table with 3 columns: CustomerID, CarID, and a composite primary key of CustomerID and CarID, with foreign key references to the CustomerID and CarID      columns in the "Customer" and "Car" tables, respectively.
+
+For Database Diagram we can use SQL Workbench to create the tables and insert a few records into the tables to test your queries below.
+
