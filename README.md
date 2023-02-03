@@ -18,7 +18,7 @@ Description of the Problem: A car rental company (let's call it CRC) wants to de
 
 7)  "Customer_Car" table with 3 columns: CustomerID, CarID, and a composite primary key of CustomerID and CarID, with foreign key references to the CustomerID and CarID      columns in the "Customer" and "Car" tables, respectively.
 
- For Database Diagram we can use SQL Workbench to create the tables and insert a few records into the tables to test your queries below.
+ For Database Diagram we can use SQL Workbench to create the tables and insert a few records into the tables to test queries below.
 
  ![carRentalCoRELATIONALSCHEMA](https://user-images.githubusercontent.com/111511821/216608777-713252e4-6336-4256-9b17-89eee6f39638.png)
 
