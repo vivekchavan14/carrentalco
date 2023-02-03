@@ -20,5 +20,6 @@ Description of the Problem A car rental company (let's call it CRC) wants to dev
 
  For Database Diagram we can use SQL Workbench to create the tables and insert a few records into the tables to test your queries below.
 
-        ![carRentalCoRELATIONALSCHEMA](https://user-images.githubusercontent.com/111511821/216608176-2d2a2638-7219-4ff9-8157-56db347e0b05.png)
+       ![carRentalCoRELATIONALSCHEMA](https://user-images.githubusercontent.com/111511821/216608777-713252e4-6336-4256-9b17-89eee6f39638.png)
+
 
